@@ -54,7 +54,7 @@ rich >= 13.0.0
 ## Cài đặt
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/9proxy-capture.git
+git clone https://github.com/Thunguyet2404/9Proxy-Capture-Change.git
 cd 9proxy-capture
 pip install -r requirements.txt
 ```
@@ -165,3 +165,4 @@ account.txt
 ## Liên hệ
 
 - **Telegram**: [t.me/hieunguyen2907](https://t.me/hieunguyen2907)
+
